@@ -36,7 +36,7 @@ const AboutUs = () => {
       <Container maxWidth="md" sx={{ padding: "40px 0" }}>
         {/* Main Heading */}
         <Typography variant="h3" component="h1" textAlign="center" gutterBottom>
-          Discover Keinsta
+          Discover Media Blendly
         </Typography>
         <Typography variant="h5" component="h2" textAlign="center" gutterBottom>
           Where Stories Ignite Imagination
@@ -48,11 +48,11 @@ const AboutUs = () => {
             Our Vision: Fueling Creativity & Connection
           </Typography>
           <Typography variant="body1" paragraph>
-            At <strong>Keinsta</strong>, we dream of a world where every story
-            finds its voice. Our platform is designed to empower both readers
-            and creators, offering a space where imagination knows no bounds. We
-            believe that storytelling has the power to connect people, inspire
-            change, and transcend borders.
+            At <strong>Media Blendly</strong>, we dream of a world where every
+            story finds its voice. Our platform is designed to empower both
+            readers and creators, offering a space where imagination knows no
+            bounds. We believe that storytelling has the power to connect
+            people, inspire change, and transcend borders.
           </Typography>
         </Box>
 
@@ -66,7 +66,7 @@ const AboutUs = () => {
             heartwarming romances, thrilling mysteries, historical epics, and
             visionary science fiction. Whether you’re a reader seeking your next
             favorite tale or a writer eager to share your narrative,{" "}
-            <strong>Narrative Nexus</strong> is your stage.
+            <strong>Media Blendly</strong> is your stage.
           </Typography>
         </Box>
 
@@ -79,8 +79,8 @@ const AboutUs = () => {
             Our user-friendly platform is built with both readers and creators
             in mind. Customize your reading experience, explore curated content,
             and enjoy interactive features that let you engage directly with
-            stories and fellow enthusiasts. <strong>Narrative Nexus</strong>{" "}
-            isn’t just a platform—it’s a creative playground.
+            stories and fellow enthusiasts. <strong>Media Blendly</strong> isn’t
+            just a platform—it’s a creative playground.
           </Typography>
         </Box>
 
@@ -92,9 +92,9 @@ const AboutUs = () => {
           <Typography variant="body1" paragraph>
             We go beyond traditional storytelling by hosting live events,
             virtual meetups with authors, and community-driven discussions. At{" "}
-            <strong>Narrative Nexus</strong>, we don’t just read stories—we
-            bring them to life. Join our vibrant community and experience
-            storytelling like never before.
+            <strong>Media Blendly</strong>, we don’t just read stories—we bring
+            them to life. Join our vibrant community and experience storytelling
+            like never before.
           </Typography>
         </Box>
 
@@ -106,13 +106,13 @@ const AboutUs = () => {
           <Typography variant="body1" paragraph>
             We’re always eager to hear from you! Whether you have feedback,
             questions, or just want to say hi, reach out to us at{" "}
-            <strong>support@narrativenexus.com</strong>. Follow us on social
-            media to stay updated with the latest news, story releases, and
-            community events.
+            <strong>support@mediablendly.com</strong>. Follow us on social media
+            to stay updated with the latest news, story releases, and community
+            events.
           </Typography>
           <Typography variant="body2" textAlign="center" color="textSecondary">
-            Thank you for being part of Narrative Nexus, where stories
-            transform, inspire, and connect us all.
+            Thank you for being part of Media Blendly, where stories transform,
+            inspire, and connect us all.
           </Typography>
         </Box>
       </Container>

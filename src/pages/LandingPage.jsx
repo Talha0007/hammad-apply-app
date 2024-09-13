@@ -231,6 +231,7 @@ const MainPage = () => {
             We are here 24/7 to server you
           </Typography>
           <Link
+            to={"/applynow"}
             style={{
               color: "gray",
               textDecoration: "none",

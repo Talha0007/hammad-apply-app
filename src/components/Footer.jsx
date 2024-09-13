@@ -30,7 +30,7 @@ const Footer = () => {
             md={4}
             sx={{ textAlign: { xs: "center", md: "left" } }}
           >
-            <Typography variant="h5">Keinsta</Typography>
+            <Typography variant="h5">Media Blendly</Typography>
             {/* Replace with actual logo */}
           </Grid>
 
@@ -79,7 +79,7 @@ const Footer = () => {
             variant="body1"
             sx={{ fontSize: { xs: "16px", md: "18px" } }}
           >
-            1234 Kinsta Avenue, Web City, DevState, 56789
+            2254 Media Blendly Avenue, Web City, DevState, 56789
           </Typography>
         </Box>
 
@@ -91,7 +91,8 @@ const Footer = () => {
           }}
         >
           <Typography variant="body2" color="textSecondary">
-            &copy; {new Date().getFullYear()} Kinsta. All rights reserved.
+            &copy; {new Date().getFullYear()} Media Blendly. All rights
+            reserved.
           </Typography>
         </Box>
       </Container>
